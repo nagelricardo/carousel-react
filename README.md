@@ -8,7 +8,7 @@
  <a href="#demonstracao">Demonstração</a> •
  <a href="#comousar">Como usar</a> •
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#autora">Autora</a>
+ <a href="#autora">Autor</a>
 </p>
 
 <h2 id="demonstracao">🖱 Demonstração</h2>
