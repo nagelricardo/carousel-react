@@ -14,7 +14,7 @@
 <h2 id="demonstracao">🖱 Demonstração</h2>
 
 <p>
-  <span><img src="/home/ricardo/carousel-react/public/static/images/screen1.png"/></span>
+  <span><img src="public/static/images/screen1.png"/></span>
 </p>
 
 <h2 id="comousar">⚒️ Como usar</h2>
